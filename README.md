@@ -40,4 +40,4 @@ Feel free to contribute! If you find any issues or have suggestions for improvem
 
 ## License 📄
 
-This project is licensed under the [MIT License](https://github.com/Ammar-Ishfaq/Drug-Manager-App/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Ammar-Ishfaq/MVVM-MedicineApp/blob/master/LICENSE).
