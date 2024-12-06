@@ -1,4 +1,4 @@
-# Drug Manager App
+# MVVM-MedicineApp
 
 A simple Android app built using **Jetpack Compose** and **MVVM architecture** for managing medication information. This app allows users to log in, view medication details, and store data using **Room DB**.
 
